@@ -1,4 +1,4 @@
-# ACORN Demo WAR
+# REX Demo WAR
 ### Description
 - java version :: 1.7.0_80
 - maven version :: 3.8.1
